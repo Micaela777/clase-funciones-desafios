@@ -204,6 +204,3 @@ console.log(celular.precio);
 // los paréntesis representativos
 console.log(celular.compra());
 
-
-
-// -------     DESAFÍO PARA LA SECCIÓN -NAMING CONVENTIONS-     ------- //
